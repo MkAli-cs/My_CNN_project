@@ -1,3 +1,3 @@
-This a CNN model trained on apple disease 
+This is a CNN model trained on apple disease 
 <br>
 AUTHOR - Mehak Ali Mustafa 
